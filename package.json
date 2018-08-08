@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config-booheefe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BooheeFE/stylelint-config-booheefe",
+  "author": "simbawu <connect@simbawu.com>",
+  "description": "Stylelint Config for Boohee FE team",
+  "keywords": [
+    "tylelint",
+    "booheefe",
+    "tylelint-config"
+  ],
+  "license": "MIT"
+}
