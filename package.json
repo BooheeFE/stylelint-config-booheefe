@@ -10,5 +10,8 @@
     "booheefe",
     "tylelint-config"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint-order": "^0.8.1"
+  }
 }
