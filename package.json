@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-booheefe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "repository": "https://github.com/BooheeFE/stylelint-config-booheefe",
   "author": "simbawu <connect@simbawu.com>",
