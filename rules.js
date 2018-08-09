@@ -122,7 +122,7 @@ module.exports = {
   "selector-type-no-unknown": true,
   "string-no-newline": true,
   "unit-case": "lower",
-  "unit-no-unknown": true
+  "unit-no-unknown": true,
   "value-list-comma-newline-after": "always-multi-line",
   "value-list-comma-space-after": "always-single-line",
   "value-list-comma-space-before": "never",
