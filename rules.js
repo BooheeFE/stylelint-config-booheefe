@@ -8,7 +8,9 @@ module.exports = {
   }],
   "at-rule-name-case": "lower",
   "at-rule-name-space-after": "always-single-line",
-  "at-rule-no-unknown": true,
+  "at-rule-no-unknown": [true, {
+    "ignoreAtRules": ["at-root", "function", "return", "content", "while", "if", "else", "for", "each", "include", "extend", "mixin"]
+  }],
   "at-rule-semicolon-newline-after": "always",
   "block-closing-brace-empty-line-before": "never",
   "block-closing-brace-newline-after": "always",
@@ -94,7 +96,7 @@ module.exports = {
   "no-eol-whitespace": true,
   "no-extra-semicolons": true,
   "no-invalid-double-slash-comments": true,
-  "no-missing-end-of-source-newline": false,
+  "no-missing-end-of-source-newline": true,
   "number-leading-zero": "always",
   "number-no-trailing-zeros": true,
   "property-case": "lower",
