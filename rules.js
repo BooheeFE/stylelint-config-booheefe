@@ -96,7 +96,7 @@ module.exports = {
   "no-eol-whitespace": true,
   "no-extra-semicolons": true,
   "no-invalid-double-slash-comments": true,
-  "no-missing-end-of-source-newline": true,
+  "no-missing-end-of-source-newline": false,
   "number-leading-zero": "always",
   "number-no-trailing-zeros": true,
   "property-case": "lower",
