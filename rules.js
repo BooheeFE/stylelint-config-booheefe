@@ -116,7 +116,7 @@ module.exports = {
   "selector-max-empty-lines": 0,
   "selector-pseudo-class-case": "lower",
   "selector-pseudo-class-no-unknown": [true, {
-    "ignorePseudoClasses": ["global"]
+    "ignorePseudoClasses": ["global", "local"]
   }],
   "selector-pseudo-class-parentheses-space-inside": "never",
   "selector-pseudo-element-case": "lower",
