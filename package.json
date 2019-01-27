@@ -1,17 +1,20 @@
 {
   "name": "stylelint-config-booheefe",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "description": "Stylelint config for Boohee FE team",
   "main": "index.js",
-  "repository": "https://github.com/BooheeFE/stylelint-config-booheefe",
   "author": "simbawu <connect@simbawu.com>",
-  "description": "Stylelint Config for Boohee FE team",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-order": "^0.8.1"
+  },
   "keywords": [
     "stylelint",
     "booheefe",
     "stylelint-config"
   ],
-  "license": "MIT",
-  "dependencies": {
-    "stylelint-order": "^0.8.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BooheeFE/stylelint-config-booheefe.git"
   }
 }
