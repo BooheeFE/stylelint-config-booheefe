@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-booheefe",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Stylelint config for Boohee FE team",
   "main": "index.js",
   "author": "simbawu <connect@simbawu.com>",
@@ -14,7 +14,7 @@
     "husky": "^3.0.4"
   },
   "peerDependencies": {
-    "stylelint": "^10.0.1"
+    "stylelint": "^10.0.1 || ^11.0.0 || ^12.0.0 || ^13.0.0"
   },
   "keywords": [
     "stylelint",
